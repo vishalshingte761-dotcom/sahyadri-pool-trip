@@ -1,0 +1,3122 @@
+[
+  {
+    "fortId": "MH-F-001",
+    "fortName": "Ahmednagar Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ahmednagar Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ahmednagar%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-002",
+    "fortName": "Akluj Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Akluj Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Akluj%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-003",
+    "fortName": "Ambagar Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ambagar Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ambagar%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-004",
+    "fortName": "Daulatabad / Devgiri Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Daulatabad / Devgiri Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Daulatabad%20/%20Devgiri%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-005",
+    "fortName": "Gawilgad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Gawilgad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Gawilgad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-006",
+    "fortName": "Harishchandragad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Harishchandragad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Harishchandragad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-007",
+    "fortName": "Jaigad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Jaigad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Jaigad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-008",
+    "fortName": "Kandhar Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kandhar Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kandhar%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-009",
+    "fortName": "Laling Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Laling Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Laling%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-010",
+    "fortName": "Lohagad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Lohagad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Lohagad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-011",
+    "fortName": "Murud-Janjira Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Murud-Janjira Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Murud-Janjira%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-012",
+    "fortName": "Nagardhan Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Nagardhan Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nagardhan%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-013",
+    "fortName": "Naldurg Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Naldurg Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Naldurg%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-014",
+    "fortName": "Narnala Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Narnala Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Narnala%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-015",
+    "fortName": "Panhala Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Panhala Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Panhala%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-016",
+    "fortName": "Pauni Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pauni Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pauni%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-017",
+    "fortName": "Pratapgad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pratapgad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pratapgad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-018",
+    "fortName": "Purandar Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Purandar Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Purandar%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-019",
+    "fortName": "Rajgad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Rajgad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Rajgad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-020",
+    "fortName": "Sajjangad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sajjangad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sajjangad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-021",
+    "fortName": "Shivneri Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shivneri Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shivneri%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-022",
+    "fortName": "Sindhudurg Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sindhudurg Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sindhudurg%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-023",
+    "fortName": "Sinhagad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sinhagad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sinhagad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-024",
+    "fortName": "Torna Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Torna Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Torna%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-025",
+    "fortName": "Vasai Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Vasai Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Vasai%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-026",
+    "fortName": "Vijaydurg Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Vijaydurg Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Vijaydurg%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-027",
+    "fortName": "Vishalgad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Vishalgad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Vishalgad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-028",
+    "fortName": "Shirgaon Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shirgaon Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shirgaon%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-029",
+    "fortName": "Bhudargad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhudargad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhudargad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-030",
+    "fortName": "Kharda Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kharda Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kharda%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-031",
+    "fortName": "Galana Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Galana Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Galana%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-032",
+    "fortName": "Ambagad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ambagad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ambagad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-033",
+    "fortName": "Manikgad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Manikgad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Manikgad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-034",
+    "fortName": "Antur Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Antur Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Antur%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-035",
+    "fortName": "Paranda Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Paranda Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Paranda%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-036",
+    "fortName": "Dharur Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dharur Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dharur%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-037",
+    "fortName": "Ausa Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ausa Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ausa%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-038",
+    "fortName": "Mahur Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mahur Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mahur%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-039",
+    "fortName": "Purngad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Purngad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Purngad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-040",
+    "fortName": "Bankot Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bankot Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bankot%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-041",
+    "fortName": "Underi Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Underi Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Underi%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-042",
+    "fortName": "Yashwantgad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Yashwantgad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Yashwantgad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-043",
+    "fortName": "Bharatgad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bharatgad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bharatgad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-044",
+    "fortName": "Korigad Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Korigad Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Korigad%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-045",
+    "fortName": "Rangana Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Rangana Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Rangana%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-046",
+    "fortName": "Ankai Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ankai Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ankai%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-047",
+    "fortName": "Tankai Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Tankai Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Tankai%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-048",
+    "fortName": "Salher Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Salher Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Salher%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-049",
+    "fortName": "Mulher Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mulher Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mulher%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-050",
+    "fortName": "Vetalwadi Fort",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Vetalwadi Fort\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Vetalwadi%20Fort%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-051",
+    "fortName": "Aad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Aad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Aad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-052",
+    "fortName": "Abhasgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Abhasgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Abhasgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-053",
+    "fortName": "Achala",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Achala\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Achala%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-054",
+    "fortName": "Achalpur (Ellichpur)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Achalpur (Ellichpur)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Achalpur%20%28Ellichpur%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-055",
+    "fortName": "Adas",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Adas\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Adas%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-056",
+    "fortName": "Adgaum (Argaon)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Adgaum (Argaon)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Adgaum%20%28Argaon%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-057",
+    "fortName": "Agashi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Agashi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Agashi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-058",
+    "fortName": "Ahiwant (Sarp/Serpant)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ahiwant (Sarp/Serpant)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ahiwant%20%28Sarp/Serpant%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-059",
+    "fortName": "Ajare",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ajare\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ajare%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-060",
+    "fortName": "Akeri",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Akeri\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Akeri%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-061",
+    "fortName": "Akhrani",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Akhrani\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Akhrani%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-062",
+    "fortName": "Akola (Asagad/Asadgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Akola (Asagad/Asadgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Akola%20%28Asagad/Asadgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-063",
+    "fortName": "Alang",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Alang\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Alang%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-064",
+    "fortName": "Alibag (Hirakot)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Alibag (Hirakot)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Alibag%20%28Hirakot%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-065",
+    "fortName": "Amalner",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Amalner\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Amalner%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-066",
+    "fortName": "Ambagadh",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ambagadh\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ambagadh%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-067",
+    "fortName": "Ambi Khurd",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ambi Khurd\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ambi%20Khurd%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-068",
+    "fortName": "Ambolgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ambolgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ambolgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-069",
+    "fortName": "Amner (Jilpi)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Amner (Jilpi)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Amner%20%28Jilpi%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-070",
+    "fortName": "Andhalgaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Andhalgaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Andhalgaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-071",
+    "fortName": "Anjaneri",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Anjaneri\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Anjaneri%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-072",
+    "fortName": "Anjanvel (Gopalgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Anjanvel (Gopalgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Anjanvel%20%28Gopalgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-073",
+    "fortName": "Arnala",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Arnala\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Arnala%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-074",
+    "fortName": "Asava (Ashagad/Asavagad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Asava (Ashagad/Asavagad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Asava%20%28Ashagad/Asavagad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-075",
+    "fortName": "Asheri",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Asheri\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Asheri%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-076",
+    "fortName": "Assaye",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Assaye\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Assaye%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-077",
+    "fortName": "Aundh",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Aundh\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Aundh%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-078",
+    "fortName": "Aundha (Avandha)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Aundha (Avandha)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Aundha%20%28Avandha%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-079",
+    "fortName": "Avachtigad (Medha)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Avachtigad (Medha)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Avachtigad%20%28Medha%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-080",
+    "fortName": "Avandha (Aundha)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Avandha (Aundha)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Avandha%20%28Aundha%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-081",
+    "fortName": "Avre",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Avre\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Avre%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-082",
+    "fortName": "Badanera",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Badanera\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Badanera%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-083",
+    "fortName": "Bagni",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bagni\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bagni%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-084",
+    "fortName": "Bahadurwadi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bahadurwadi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bahadurwadi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-085",
+    "fortName": "Bahem",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bahem\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bahem%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-086",
+    "fortName": "Bahiravgad (Bhai Ramgad/Bairamgad/Saramja)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bahiravgad (Bhai Ramgad/Bairamgad/Saramja)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bahiravgad%20%28Bhai%20Ramgad/Bairamgad/Saramja%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-087",
+    "fortName": "Bahirgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bahirgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bahirgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-088",
+    "fortName": "Bahula",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bahula\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bahula%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-089",
+    "fortName": "Baitulawadi (Vetalwadi/Baitalwadi)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Baitulawadi (Vetalwadi/Baitalwadi)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Baitulawadi%20%28Vetalwadi/Baitalwadi%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-090",
+    "fortName": "Balapur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Balapur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Balapur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-091",
+    "fortName": "Ballalgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ballalgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ballalgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-092",
+    "fortName": "Ballalpur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ballalpur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ballalpur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-093",
+    "fortName": "Balwantgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Balwantgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Balwantgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-094",
+    "fortName": "Bande",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bande\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bande%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-095",
+    "fortName": "Baramati",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Baramati\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Baramati%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-096",
+    "fortName": "Basgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Basgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Basgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-097",
+    "fortName": "Bavda (Gagangad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bavda (Gagangad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bavda%20%28Gagangad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-098",
+    "fortName": "Bavdhan",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bavdhan\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bavdhan%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-099",
+    "fortName": "Belapur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Belapur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Belapur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-100",
+    "fortName": "Betavad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Betavad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Betavad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-101",
+    "fortName": "Bhagwantgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhagwantgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhagwantgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-102",
+    "fortName": "Bhairavgad (Bhairamgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhairavgad (Bhairamgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhairavgad%20%28Bhairamgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-103",
+    "fortName": "Bhairavgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhairavgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhairavgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-104",
+    "fortName": "Bhamer",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhamer\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhamer%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-105",
+    "fortName": "Bhamragad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhamragad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhamragad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-106",
+    "fortName": "Bhana Hivra",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhana Hivra\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhana%20Hivra%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-107",
+    "fortName": "Bhandara (Behnor)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhandara (Behnor)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhandara%20%28Behnor%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-108",
+    "fortName": "Bhandargad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhandargad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhandargad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-109",
+    "fortName": "Bhaskargad (Basgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhaskargad (Basgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhaskargad%20%28Basgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-110",
+    "fortName": "Bhavangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhavangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhavangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-111",
+    "fortName": "Bhimgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhimgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhimgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-112",
+    "fortName": "Bhivagad (Gaurkamat)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhivagad (Gaurkamat)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhivagad%20%28Gaurkamat%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-113",
+    "fortName": "Bhopalgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhopalgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhopalgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-114",
+    "fortName": "Bhorgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhorgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhorgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-115",
+    "fortName": "Bhupalgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhupalgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhupalgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-116",
+    "fortName": "Bhupatgad (Bhopatgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhupatgad (Bhopatgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhupatgad%20%28Bhopatgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-117",
+    "fortName": "Bhushangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhushangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhushangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-118",
+    "fortName": "Birwadi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Birwadi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Birwadi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-119",
+    "fortName": "Bitangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bitangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bitangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-120",
+    "fortName": "Bodvad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bodvad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bodvad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-121",
+    "fortName": "Bombay",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bombay\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bombay%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-122",
+    "fortName": "Borale",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Borale\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Borale%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-123",
+    "fortName": "Borgaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Borgaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Borgaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-124",
+    "fortName": "Bhorgiri",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Bhorgiri\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Bhorgiri%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-125",
+    "fortName": "Chakan (Islamabad/Sangramgad/Vikramgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chakan (Islamabad/Sangramgad/Vikramgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chakan%20%28Islamabad/Sangramgad/Vikramgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-126",
+    "fortName": "Chambhargad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chambhargad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chambhargad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-127",
+    "fortName": "Chandan",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chandan\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chandan%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-128",
+    "fortName": "Chanderi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chanderi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chanderi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-129",
+    "fortName": "Chandgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chandgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chandgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-130",
+    "fortName": "Chandpur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chandpur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chandpur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-131",
+    "fortName": "Chandragad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chandragad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chandragad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-132",
+    "fortName": "Chandrapur (Gonddurg/Chanderi/Chanda)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chandrapur (Gonddurg/Chanderi/Chanda)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chandrapur%20%28Gonddurg/Chanderi/Chanda%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-133",
+    "fortName": "Chandvad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chandvad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chandvad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-134",
+    "fortName": "Chatale",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chatale\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chatale%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-135",
+    "fortName": "Chaul (Agarkot/Palm Garden)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chaul (Agarkot/Palm Garden)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chaul%20%28Agarkot/Palm%20Garden%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-136",
+    "fortName": "Chauler (Tilwan)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chauler (Tilwan)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chauler%20%28Tilwan%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-137",
+    "fortName": "Chaugaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chaugaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chaugaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-138",
+    "fortName": "Chavand (Jund/Prassanagad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chavand (Jund/Prassanagad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chavand%20%28Jund/Prassanagad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-139",
+    "fortName": "Chimur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chimur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chimur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-140",
+    "fortName": "Chinchgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chinchgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chinchgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-141",
+    "fortName": "Chinchani",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chinchani\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chinchani%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-142",
+    "fortName": "Chopda (Mustafabad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Chopda (Mustafabad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chopda%20%28Mustafabad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-143",
+    "fortName": "Dabhol",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dabhol\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dabhol%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-144",
+    "fortName": "Dahanu",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dahanu\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dahanu%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-145",
+    "fortName": "Danda",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Danda\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Danda%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-146",
+    "fortName": "Danda Rajpuri",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Danda Rajpuri\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Danda%20Rajpuri%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-147",
+    "fortName": "Danda Rajapur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Danda Rajapur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Danda%20Rajapur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-148",
+    "fortName": "Dategad (Sudergad/Ghera Dategad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dategad (Sudergad/Ghera Dategad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dategad%20%28Sudergad/Ghera%20Dategad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-149",
+    "fortName": "Dativre",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dativre\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dativre%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-150",
+    "fortName": "Daulatmangal (Bhuleshwar)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Daulatmangal (Bhuleshwar)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Daulatmangal%20%28Bhuleshwar%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-151",
+    "fortName": "Dehra (Bhorgad/Rajdehr)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dehra (Bhorgad/Rajdehr)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dehra%20%28Bhorgad/Rajdehr%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-152",
+    "fortName": "Deoli",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Deoli\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Deoli%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-153",
+    "fortName": "Dermal",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dermal\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dermal%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-154",
+    "fortName": "Devgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Devgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Devgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-155",
+    "fortName": "Devrukh",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Devrukh\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Devrukh%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-156",
+    "fortName": "Dhadgaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dhadgaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dhadgaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-157",
+    "fortName": "Dhak (Bahiri)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dhak (Bahiri)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dhak%20%28Bahiri%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-158",
+    "fortName": "Dhamnya",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dhamnya\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dhamnya%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-159",
+    "fortName": "Dhangad (Gahangad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dhangad (Gahangad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dhangad%20%28Gahangad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-160",
+    "fortName": "Dharavi (Kala Killa)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dharavi (Kala Killa)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dharavi%20%28Kala%20Killa%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-161",
+    "fortName": "Dharni",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dharni\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dharni%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-162",
+    "fortName": "Dhule (Devpur)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dhule (Devpur)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dhule%20%28Devpur%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-163",
+    "fortName": "Dindu",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dindu\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dindu%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-164",
+    "fortName": "Dondwada",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dondwada\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dondwada%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-165",
+    "fortName": "Dronagiri (Karanja)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dronagiri (Karanja)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dronagiri%20%28Karanja%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-166",
+    "fortName": "Drug",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Drug\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Drug%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-167",
+    "fortName": "Dudmal",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dudmal\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dudmal%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-168",
+    "fortName": "Dusana",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Dusana\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Dusana%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-169",
+    "fortName": "Ekadara",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ekadara\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ekadara%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-170",
+    "fortName": "Elephanta (Gharapuri)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Elephanta (Gharapuri)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Elephanta%20%28Gharapuri%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-171",
+    "fortName": "Fatehkheda",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Fatehkheda\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Fatehkheda%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-172",
+    "fortName": "Fattegad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Fattegad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Fattegad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-173",
+    "fortName": "Gadhinglaj",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Gadhinglaj\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Gadhinglaj%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-174",
+    "fortName": "Gagangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Gagangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Gagangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-175",
+    "fortName": "Gambhirgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Gambhirgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Gambhirgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-176",
+    "fortName": "Gandharvagad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Gandharvagad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Gandharvagad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-177",
+    "fortName": "Ganeshdurg",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ganeshdurg\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ganeshdurg%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-178",
+    "fortName": "Ghanora",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ghanora\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ghanora%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-179",
+    "fortName": "Ghargad (Dhargad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ghargad (Dhargad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ghargad%20%28Dhargad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-180",
+    "fortName": "Ghodbandar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ghodbandar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ghodbandar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-181",
+    "fortName": "Ghosalgad (Ghosale)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ghosalgad (Ghosale)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ghosalgad%20%28Ghosale%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-182",
+    "fortName": "Gorakhgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Gorakhgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Gorakhgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-183",
+    "fortName": "Govagad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Govagad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Govagad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-184",
+    "fortName": "Gumtara",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Gumtara\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Gumtara%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-185",
+    "fortName": "Gunwantgad (Morgiri)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Gunwantgad (Morgiri)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Gunwantgad%20%28Morgiri%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-186",
+    "fortName": "Hadsar (Parvatgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Hadsar (Parvatgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Hadsar%20%28Parvatgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-187",
+    "fortName": "Hanumangad (Manchigad/Bijarnigad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Hanumangad (Manchigad/Bijarnigad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Hanumangad%20%28Manchigad/Bijarnigad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-188",
+    "fortName": "Hanumangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Hanumangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Hanumangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-189",
+    "fortName": "Hargad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Hargad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Hargad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-190",
+    "fortName": "Harihar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Harihar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Harihar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-191",
+    "fortName": "Harshgad (Harishgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Harshgad (Harishgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Harshgad%20%28Harishgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-192",
+    "fortName": "Hatgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Hatgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Hatgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-193",
+    "fortName": "Helvak",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Helvak\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Helvak%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-194",
+    "fortName": "Hindola",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Hindola\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Hindola%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-195",
+    "fortName": "Hingana",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Hingana\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Hingana%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-196",
+    "fortName": "Indragad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Indragad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Indragad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-197",
+    "fortName": "Indrai (Indragad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Indrai (Indragad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Indrai%20%28Indragad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-198",
+    "fortName": "Indori",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Indori\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Indori%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-199",
+    "fortName": "Jalna",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Jalna\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Jalna%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-200",
+    "fortName": "Jallalkheda",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Jallalkheda\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Jallalkheda%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-201",
+    "fortName": "Jamba",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Jamba\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Jamba%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-202",
+    "fortName": "Jamgaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Jamgaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Jamgaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-203",
+    "fortName": "Jamner",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Jamner\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Jamner%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-204",
+    "fortName": "Jangli Jaygad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Jangli Jaygad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Jangli%20Jaygad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-205",
+    "fortName": "Javlya",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Javlya\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Javlya%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-206",
+    "fortName": "Jivdhan",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Jivdhan\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Jivdhan%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-207",
+    "fortName": "Jintur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Jintur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Jintur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-208",
+    "fortName": "Junnar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Junnar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Junnar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-209",
+    "fortName": "Juna Panhala",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Juna Panhala\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Juna%20Panhala%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-210",
+    "fortName": "Kachan",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kachan\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kachan%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-211",
+    "fortName": "Kada",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kada\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kada%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-212",
+    "fortName": "Kagal",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kagal\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kagal%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-213",
+    "fortName": "Kailashgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kailashgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kailashgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-214",
+    "fortName": "Kajagad (Lokhandi Killa)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kajagad (Lokhandi Killa)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kajagad%20%28Lokhandi%20Killa%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-215",
+    "fortName": "Kaldurg",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kaldurg\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kaldurg%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-216",
+    "fortName": "Kalam (Kalamb/Kolambi)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kalam (Kalamb/Kolambi)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kalam%20%28Kalamb/Kolambi%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-217",
+    "fortName": "Kalanidhigad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kalanidhigad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kalanidhigad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-218",
+    "fortName": "Kalyan (Durgadi)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kalyan (Durgadi)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kalyan%20%28Durgadi%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-219",
+    "fortName": "Kamalgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kamalgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kamalgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-220",
+    "fortName": "Kamandurg",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kamandurg\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kamandurg%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-221",
+    "fortName": "Kamsagad (Padamdurg)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kamsagad (Padamdurg)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kamsagad%20%28Padamdurg%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-222",
+    "fortName": "Kamtekot",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kamtekot\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kamtekot%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-223",
+    "fortName": "Kamtha",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kamtha\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kamtha%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-224",
+    "fortName": "Kanchana",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kanchana\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kanchana%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-225",
+    "fortName": "Kankrala (Kankadi)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kankrala (Kankadi)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kankrala%20%28Kankadi%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-226",
+    "fortName": "Kanhergad (Kanhira)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kanhergad (Kanhira)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kanhergad%20%28Kanhira%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-227",
+    "fortName": "Kanheri (Kanhera/Kanherigad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kanheri (Kanhera/Kanherigad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kanheri%20%28Kanhera/Kanherigad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-228",
+    "fortName": "Kankadri (Kantra/Kandas)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kankadri (Kantra/Kandas)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kankadri%20%28Kantra/Kandas%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-229",
+    "fortName": "Kanakdurg",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kanakdurg\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kanakdurg%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-230",
+    "fortName": "Kanvai",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kanvai\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kanvai%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-231",
+    "fortName": "Kanhera",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kanhera\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kanhera%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-232",
+    "fortName": "Karad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Karad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Karad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-233",
+    "fortName": "Karanja",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Karanja\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Karanja%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-234",
+    "fortName": "Karhe",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Karhe\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Karhe%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-235",
+    "fortName": "Karmala",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Karmala\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Karmala%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-236",
+    "fortName": "Karanala",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Karanala\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Karanala%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-237",
+    "fortName": "Katol",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Katol\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Katol%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-238",
+    "fortName": "Katragad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Katragad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Katragad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-239",
+    "fortName": "Kaula Killa",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kaula Killa\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kaula%20Killa%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-240",
+    "fortName": "Kauthe",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kauthe\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kauthe%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-241",
+    "fortName": "Kayar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kayar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kayar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-242",
+    "fortName": "Kelapur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kelapur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kelapur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-243",
+    "fortName": "Kelve",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kelve\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kelve%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-244",
+    "fortName": "Kenjalgad (Kelanja)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kenjalgad (Kelanja)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kenjalgad%20%28Kelanja%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-245",
+    "fortName": "Khanapur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Khanapur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Khanapur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-246",
+    "fortName": "Khandaragad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Khandaragad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Khandaragad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-247",
+    "fortName": "Khanderi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Khanderi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Khanderi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-248",
+    "fortName": "Khare Patan",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Khare Patan\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Khare%20Patan%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-249",
+    "fortName": "Khatgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Khatgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Khatgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-250",
+    "fortName": "Khatoda",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Khatoda\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Khatoda%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-251",
+    "fortName": "Khubladha (Thal)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Khubladha (Thal)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Khubladha%20%28Thal%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-252",
+    "fortName": "Khatale (Pethkodhala)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Khatale (Pethkodhala)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Khatale%20%28Pethkodhala%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-253",
+    "fortName": "Kittal",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kittal\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kittal%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-254",
+    "fortName": "Kohaj (Komj/Konagad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kohaj (Komj/Konagad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kohaj%20%28Komj/Konagad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-255",
+    "fortName": "Kokan Diva",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kokan Diva\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kokan%20Diva%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-256",
+    "fortName": "Koldher (Kolther)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Koldher (Kolther)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Koldher%20%28Kolther%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-257",
+    "fortName": "Kole (Kale/Koldurg)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kole (Kale/Koldurg)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kole%20%28Kale/Koldurg%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-258",
+    "fortName": "Koparli (Ranala)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Koparli (Ranala)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Koparli%20%28Ranala%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-259",
+    "fortName": "Korlai",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Korlai\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Korlai%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-260",
+    "fortName": "Kothilgad (Peth)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kothilgad (Peth)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kothilgad%20%28Peth%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-261",
+    "fortName": "Kudal",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kudal\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kudal%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-262",
+    "fortName": "Kulaba (Alibag)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kulaba (Alibag)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kulaba%20%28Alibag%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-263",
+    "fortName": "Kulang (Chota Kulang)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kulang (Chota Kulang)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kulang%20%28Chota%20Kulang%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-264",
+    "fortName": "Kumwarigad (Koraigad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kumwarigad (Koraigad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kumwarigad%20%28Koraigad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-265",
+    "fortName": "Kunjalgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kunjalgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kunjalgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-266",
+    "fortName": "Kurdugad (Vitangad/Bishramgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Kurdugad (Vitangad/Bishramgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Kurdugad%20%28Vitangad/Bishramgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-267",
+    "fortName": "Lasalgaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Lasalgaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Lasalgaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-268",
+    "fortName": "Lasur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Lasur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Lasur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-269",
+    "fortName": "Lingana",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Lingana\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Lingana%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-270",
+    "fortName": "Loni Bhapkar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Loni Bhapkar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Loni%20Bhapkar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-271",
+    "fortName": "Machal",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Machal\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Machal%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-272",
+    "fortName": "Machindragad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Machindragad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Machindragad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-273",
+    "fortName": "Madangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Madangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Madangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-274",
+    "fortName": "Madgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Madgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Madgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-275",
+    "fortName": "Madha",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Madha\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Madha%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-276",
+    "fortName": "Madhala Buruz",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Madhala Buruz\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Madhala%20Buruz%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-277",
+    "fortName": "Mahadevgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mahadevgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mahadevgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-278",
+    "fortName": "Mahim",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mahim\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mahim%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-279",
+    "fortName": "Mahimangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mahimangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mahimangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-280",
+    "fortName": "Mahipalgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mahipalgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mahipalgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-281",
+    "fortName": "Mahipatgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mahipatgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mahipatgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-282",
+    "fortName": "Makarandgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Makarandgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Makarandgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-283",
+    "fortName": "Mahuli",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mahuli\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mahuli%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-284",
+    "fortName": "Malkapur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Malkapur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Malkapur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-285",
+    "fortName": "Malanggad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Malanggad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Malanggad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-286",
+    "fortName": "Malavdi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Malavdi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Malavdi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-287",
+    "fortName": "Malegaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Malegaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Malegaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-288",
+    "fortName": "Malhargad (Soneri)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Malhargad (Soneri)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Malhargad%20%28Soneri%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-289",
+    "fortName": "Manaranjan (Rajamachi)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Manaranjan (Rajamachi)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Manaranjan%20%28Rajamachi%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-290",
+    "fortName": "Manasantoshgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Manasantoshgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Manasantoshgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-291",
+    "fortName": "Manchur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Manchur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Manchur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-292",
+    "fortName": "Mandangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mandangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mandangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-293",
+    "fortName": "Mangad (Mastiwade/Vinsai)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mangad (Mastiwade/Vinsai)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mangad%20%28Mastiwade/Vinsai%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-294",
+    "fortName": "Mangalgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mangalgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mangalgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-295",
+    "fortName": "Mangalvedha",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mangalvedha\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mangalvedha%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-296",
+    "fortName": "Mangi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mangi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mangi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-297",
+    "fortName": "Manikpunj",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Manikpunj\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Manikpunj%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-298",
+    "fortName": "Manohargad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Manohargad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Manohargad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-299",
+    "fortName": "Manor",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Manor\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Manor%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-300",
+    "fortName": "Markandya (Mayurkhandi)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Markandya (Mayurkhandi)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Markandya%20%28Mayurkhandi%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-301",
+    "fortName": "Masur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Masur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Masur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-302",
+    "fortName": "Mathane",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mathane\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mathane%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-303",
+    "fortName": "Mathan (Malchan)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mathan (Malchan)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mathan%20%28Malchan%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-304",
+    "fortName": "Mazgaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mazgaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mazgaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-305",
+    "fortName": "Medad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Medad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Medad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-306",
+    "fortName": "Mesna",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mesna\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mesna%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-307",
+    "fortName": "Miraj (Murtazabad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Miraj (Murtazabad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Miraj%20%28Murtazabad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-308",
+    "fortName": "Mohangad (Jasalodgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mohangad (Jasalodgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mohangad%20%28Jasalodgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-309",
+    "fortName": "Mohol",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Mohol\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mohol%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-310",
+    "fortName": "Moragad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Moragad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Moragad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-311",
+    "fortName": "Murtazapur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Murtazapur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Murtazapur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-312",
+    "fortName": "Nanded",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Nanded\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nanded%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-313",
+    "fortName": "Nandgiri (Kalyangad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Nandgiri (Kalyangad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nandgiri%20%28Kalyangad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-314",
+    "fortName": "Nandos",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Nandos\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nandos%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-315",
+    "fortName": "Nandurbar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Nandurbar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nandurbar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-316",
+    "fortName": "Narkher",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Narkher\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Narkher%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-317",
+    "fortName": "Nashratpur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Nashratpur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nashratpur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-318",
+    "fortName": "Nhavi Killa (Ratangad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Nhavi Killa (Ratangad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nhavi%20Killa%20%28Ratangad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-319",
+    "fortName": "Nivati",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Nivati\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nivati%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-320",
+    "fortName": "Nimgiri",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Nimgiri\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nimgiri%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-321",
+    "fortName": "Pabar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pabar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pabar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-322",
+    "fortName": "Padar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Padar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Padar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-323",
+    "fortName": "Padargad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Padargad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Padargad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-324",
+    "fortName": "Padamgad (Padmagad/Padmadurg)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Padamgad (Padmagad/Padmadurg)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Padamgad%20%28Padmagad/Padmadurg%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-325",
+    "fortName": "Pal",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pal\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pal%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-326",
+    "fortName": "Palgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Palgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Palgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-327",
+    "fortName": "Palshi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Palshi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Palshi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-328",
+    "fortName": "Pan Buruz",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pan Buruz\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pan%20Buruz%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-329",
+    "fortName": "Pandavgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pandavgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pandavgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-330",
+    "fortName": "Pargad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pargad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pargad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-331",
+    "fortName": "Parkot",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Parkot\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Parkot%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-332",
+    "fortName": "Parinda",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Parinda\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Parinda%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-333",
+    "fortName": "Parola",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Parola\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Parola%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-334",
+    "fortName": "Parsik",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Parsik\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Parsik%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-335",
+    "fortName": "Parwadi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Parwadi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Parwadi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-336",
+    "fortName": "Patheri",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Patheri\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Patheri%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-337",
+    "fortName": "Patta (Vishramgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Patta (Vishramgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Patta%20%28Vishramgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-338",
+    "fortName": "Pavangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pavangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pavangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-339",
+    "fortName": "Peb (Vikatgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Peb (Vikatgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Peb%20%28Vikatgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-340",
+    "fortName": "Pedagaum (Bahadurgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pedagaum (Bahadurgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pedagaum%20%28Bahadurgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-341",
+    "fortName": "Pemgiri (Shahagad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pemgiri (Shahagad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pemgiri%20%28Shahagad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-342",
+    "fortName": "Pedka",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pedka\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pedka%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-343",
+    "fortName": "Phardapur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Phardapur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Phardapur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-344",
+    "fortName": "Phonda",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Phonda\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Phonda%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-345",
+    "fortName": "Phutaka Buruz",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Phutaka Buruz\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Phutaka%20Buruz%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-346",
+    "fortName": "Pimpalner",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pimpalner\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pimpalner%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-347",
+    "fortName": "Pisol (Dighve)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Pisol (Dighve)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Pisol%20%28Dighve%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-348",
+    "fortName": "Prabalgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Prabalgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Prabalgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-349",
+    "fortName": "Prachitgad (Uchitgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Prachitgad (Uchitgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Prachitgad%20%28Uchitgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-350",
+    "fortName": "Raireshwar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Raireshwar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Raireshwar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-351",
+    "fortName": "Rajdehar",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Rajdehar\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Rajdehar%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-352",
+    "fortName": "Rajdher",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Rajdher\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Rajdher%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-353",
+    "fortName": "Ramshej",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ramshej\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ramshej%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-354",
+    "fortName": "Ramtek",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ramtek\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ramtek%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-355",
+    "fortName": "Rasalgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Rasalgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Rasalgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-356",
+    "fortName": "Ratandurg",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ratandurg\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ratandurg%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-357",
+    "fortName": "Ratnagiri (Ramdurg)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Ratnagiri (Ramdurg)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ratnagiri%20%28Ramdurg%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-358",
+    "fortName": "Raver (Rasalpur)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Raver (Rasalpur)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Raver%20%28Rasalpur%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-359",
+    "fortName": "Rawlya",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Rawlya\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Rawlya%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-360",
+    "fortName": "Revdanda",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Revdanda\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Revdanda%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-361",
+    "fortName": "Rohida (Vichitragad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Rohida (Vichitragad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Rohida%20%28Vichitragad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-362",
+    "fortName": "Rohilgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Rohilgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Rohilgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-363",
+    "fortName": "Sadashivgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sadashivgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sadashivgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-364",
+    "fortName": "Sagargad (Kheldurg/Khaladurg)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sagargad (Kheldurg/Khaladurg)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sagargad%20%28Kheldurg/Khaladurg%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-365",
+    "fortName": "Saitonda (Sutanda)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Saitonda (Sutanda)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saitonda%20%28Sutanda%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-366",
+    "fortName": "Sakri",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sakri\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sakri%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-367",
+    "fortName": "Salota",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Salota\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Salota%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-368",
+    "fortName": "Samangad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Samangad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Samangad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-369",
+    "fortName": "Samkshi (Badrud-din)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Samkshi (Badrud-din)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Samkshi%20%28Badrud-din%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-370",
+    "fortName": "Sangli",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sangli\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sangli%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-371",
+    "fortName": "Sanjan",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sanjan\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sanjan%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-372",
+    "fortName": "Santoshgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Santoshgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Santoshgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-373",
+    "fortName": "Sarasgad (Aminabad/Pali)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sarasgad (Aminabad/Pali)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sarasgad%20%28Aminabad/Pali%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-374",
+    "fortName": "Sarjekot",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sarjekot\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sarjekot%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-375",
+    "fortName": "Satara (Ajinkyatara)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Satara (Ajinkyatara)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Satara%20%28Ajinkyatara%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-376",
+    "fortName": "Sathavli",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sathavli\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sathavli%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-377",
+    "fortName": "Savda",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Savda\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Savda%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-378",
+    "fortName": "Sawantwadi",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sawantwadi\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sawantwadi%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-379",
+    "fortName": "Sawargaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sawargaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sawargaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-380",
+    "fortName": "Sewri",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sewri\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sewri%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-381",
+    "fortName": "Shahada",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shahada\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shahada%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-382",
+    "fortName": "Shahagad (Bhimgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shahagad (Bhimgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shahagad%20%28Bhimgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-383",
+    "fortName": "Shegwa",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shegwa\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shegwa%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-384",
+    "fortName": "Shirgaum",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shirgaum\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shirgaum%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-385",
+    "fortName": "Shirpur",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shirpur\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shirpur%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-386",
+    "fortName": "Shirval (Subhamangalgad)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shirval (Subhamangalgad)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shirval%20%28Subhamangalgad%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-387",
+    "fortName": "Shivgad",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shivgad\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shivgad%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-388",
+    "fortName": "Shrivardhan (Rajamachi)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shrivardhan (Rajamachi)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shrivardhan%20%28Rajamachi%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-389",
+    "fortName": "Shrimangalgad (Haji Malang)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Shrimangalgad (Haji Malang)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Shrimangalgad%20%28Haji%20Malang%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  },
+  {
+    "fortId": "MH-F-390",
+    "fortName": "Sidhagad (Bakshidabaksh)",
+    "photoProvider": "Wikimedia Commons",
+    "photoQuery": "\"Sidhagad (Bakshidabaksh)\" fort",
+    "photoSearchUrl": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Sidhagad%20%28Bakshidabaksh%29%20fort",
+    "matchRule": "Exact fort-name match only; otherwise photo remains pending"
+  }
+]
