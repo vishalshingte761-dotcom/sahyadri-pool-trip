@@ -3,7 +3,7 @@
 // Talks to the Spring Boot backend (default: localhost:8080)
 // =====================================================
 
-const API_BASE_URL = window.SPT_API_BASE_URL || "http://localhost:8080";
+window.SPT_API_BASE_URL || window.location.origin
 
 const API = {
 
